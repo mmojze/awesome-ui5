@@ -1,0 +1,17 @@
+{
+  "name": "odata-server",
+  "version": "1.0.0",
+  "description": "OData simple server",
+  "main": "app.js",
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "simple-odata-server": "^1.1.1",
+    "simple-odata-server-nedb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "blytes",
+  "license": "ISC"
+}
